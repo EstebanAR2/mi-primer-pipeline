@@ -4,7 +4,7 @@
   "description": "Lab CI/CD - Ingeniería de Software",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --forceExit"
   },
   "repository": {
     "type": "git",
