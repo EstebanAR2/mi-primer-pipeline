@@ -1,0 +1,24 @@
+{
+  "name": "mi-primer-pipeline",
+  "version": "1.0.0",
+  "description": "Lab CI/CD - Ingeniería de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstebanAR2/mi-primer-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EstebanAR2/mi-primer-pipeline/issues"
+  },
+  "homepage": "https://github.com/EstebanAR2/mi-primer-pipeline#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
