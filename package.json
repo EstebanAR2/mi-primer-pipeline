@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/EstebanAR2/mi-primer-pipeline#readme",
   "devDependencies": {
-    "jest": "^30.3.0"
+    "jest": "^29.7.0"
   }
 }
