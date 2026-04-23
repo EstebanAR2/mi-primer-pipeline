@@ -1,4 +1,4 @@
-// Función principal: suma dos números
+return a + b;// Función principal: suma dos números
 function sumar(a, b) {
   return a + b;
 }
